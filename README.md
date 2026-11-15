@@ -43,14 +43,25 @@ Term_01/
 | [CS 1111-01 — Introduction to Computer Science](<Term_01/CS 1111-01 Introduction to Computer Science - AY2026-T5>) | Mohamadou Bassirou Jean-Baptiste Sanfo | 3 | 98 / A+ |
 | [UNIV 1002-01 — Online Education Strategies for Non-Native English Speakers](<Term_01/UNIV 1002-01 Online Education Strategies for Non-Native English Speakers - AY2026-T5>) | Mustapha Kammouss | 3 | 100 / A+ |
 
-## Term 2 Courses (AY2027-T1) — IN PROGRESS
+## Term 2 Courses (AY2027-T1) — COMPLETED
 
-**Term 2 is underway; Unit 1 is currently running.**
+**Term 2 coursework is finished and final grades are posted.**
+
+| Course | Instructor | Grade |
+|---|---|---|
+| [ENGL 1102-01 — English Composition 2](<Term_02/ENGL 1102-01 English Composition 2 - AY2027-T1>) | Aparna Rajith | 100 / A+ |
+| [CS 1101-01 — Programming Fundamentals](<Term_02/CS 1101-01 Programming Fundamentals - AY2027-T1>) | Hussam Al Khouja | 100 / A+ |
+
+## Term 3 Courses (AY2027-T2) — IN PROGRESS
+
+**Term 3 is underway; Unit 1 is currently running.**
 
 | Course | Instructor |
 |---|---|
-| ENGL 1102-01 — English Composition 2 | Aparna Rajith (aparna.rajith@uopeople.edu) |
-| CS 1101-01 — Programming Fundamentals | Hussam Al Khouja (hussam.alkhouja@uopeople.edu) |
+| [CS 1102-01 — Programming 1](<Term_03/CS 1102-01 Programming 1 - AY2027-T2>) | Ruchi Chopra (ruchi.chopra@uopeople.edu) |
+| [CS 2204-01 — Communications and Networking](<Term_03/CS 2204-01 Communications and Networking - AY2027-T2>) | Chinu Singla (Chinu.Singla@uopeople.edu) |
+| [ECON 1580-01 — Applied Economics: Theory and Practice](<Term_03/ECON 1580-01 Applied Economics - Theory and Practice - AY2027-T2>) | Divya Rana (divya.rana@uopeople.edu) |
+| [CS 2203-01 — Databases 1](<Term_03/CS 2203-01 Databases 1 - AY2027-T2>) | Joseph Ego (joseph.ego@uopeople.edu) |
 
 ## Discussion deadlines
 
