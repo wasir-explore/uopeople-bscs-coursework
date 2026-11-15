@@ -11,11 +11,6 @@
 Covers applied economic theory and practice, part of the BS-CS program's general
 education requirements at the University of the People.
 
-> **Note:** `Degree-Plan.md` at the repository root had originally planned ECON 1580 as a
-> transfer-credit course (via StraighterLine/Modern States, see Section 1C). Since it's
-> now being taken directly at UoPeople this term, the degree plan's course list, cost
-> estimate, and course counts may need revisiting — flagged here for follow-up.
-
 ## Folder structure
 
 Work for this course is organized by content type:

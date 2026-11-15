@@ -41,11 +41,6 @@ directory.
 | Applied Economics: Theory and Practice | ECON 1580-01 | Divya Rana (divya.rana@uopeople.edu) |
 | Databases 1 | CS 2203-01 | Joseph Ego (joseph.ego@uopeople.edu) |
 
-> **Degree-plan note:** `Degree-Plan.md` originally planned ECON 1580 as a
-> transfer-credit course (Section 1C) rather than one taken directly at UoPeople. Since
-> it's now part of the Term 3 UoPeople course load, the plan's course list/cost/count may
-> need revisiting — not yet reconciled.
-
 ## Discussion Deadlines (applies to both courses unless a specific unit says otherwise)
 
 - **Main/initial discussion post:** due Sunday.
