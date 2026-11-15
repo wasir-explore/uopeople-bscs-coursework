@@ -104,12 +104,21 @@ relationships, and grad-school-relevant depth are concentrated.
 | Phase | Terms | UoPeople courses/term | Cumulative UoPeople courses |
 |-------|-------|------------------------|------------------------------|
 | Term 1 (done) | Jun 2026 | 2 | 2 |
-| Term 2 (current) | Sep 2026 | 2 | 4 |
-| Term 3 | Nov 2026 | 2 | 6 |
+| Term 2 (done) | Sep 2026 | 2 | 4 |
+| Term 3 (current) | Nov 2026 | 2 (plan) / 4 (actual) ⚠️ | 6 (plan) |
 | Term 4 | Jan 2027 | 4 | 10 |
 | Term 5 | Apr 2027 | 4 | 14 |
 | Term 6 | Jun 2027 | 4 | 18 |
 | Term 7 (final) | Sep 2027 | 3 | 21 ✅ |
+
+> ⚠️ **Plan vs. actual, flagged Nov 2026 — not yet reconciled:** Term 3 actually has 4
+> UoPeople courses (CS 1102, CS 2204, CS 2203, **and ECON 1580**), not the 2/term this
+> plan assumed through Term 3. ECON 1580 was originally slated for transfer credit via
+> StraighterLine/Modern States (Section 1C below) rather than completion at UoPeople. This
+> affects the Section 1 course list (A vs. C), the cost estimate (Section 2), and every
+> cumulative-course and completion-date figure in this timeline from Term 3 onward. Treat
+> the numbers below as the original plan, not current reality, until this is explicitly
+> reconciled with the student.
 
 **Estimated completion: ~November 2027**, roughly **1 year 3 months** from now (Aug 2026),
 assuming:

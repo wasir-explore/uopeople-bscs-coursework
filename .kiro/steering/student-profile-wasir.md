@@ -15,9 +15,8 @@ directory.
 - **School:** University of the People (UoPeople)
 - **Term 1 start date:** June 18
 - **Term structure:** Every term consists of 9 units; each unit is 1 week long.
-- **Current progress:** Term 1 is COMPLETE with final grades posted (see table below).
-  Term 2 (AY2027-T1) is in progress — currently at Unit 8 (the ENGL 1102-01 compiled research
-  paper is due Oct 29, 2026 on the portal; title-page date Oct 28, 2026).
+- **Current progress:** Term 1 and Term 2 are COMPLETE with final grades posted (see
+  tables below). Term 3 (AY2027-T2) is in progress — currently at Unit 1.
 
 ## Term 1 Courses (AY2026-T5) — COMPLETED, grades posted
 
@@ -26,12 +25,26 @@ directory.
 | Introduction to Computer Science (Elective) | CS 1111 | Mohamadou Bassirou Jean-Baptiste Sanfo | 3 | 98 / A+ |
 | Online Education Strategies for Non-Native English Speakers (Required) | UNIV 1002 | Mustapha Kammouss | 3 | 100 / A+ |
 
-## Term 2 Courses (AY2027-T1) — IN PROGRESS (Unit 8)
+## Term 2 Courses (AY2027-T1) — COMPLETED, grades posted
 
-| Course | Instructor |
-|---|---|
-| ENGL 1102-01 — English Composition 2 | Aparna Rajith (aparna.rajith@uopeople.edu) |
-| CS 1101-01 — Programming Fundamentals | Hussam Al Khouja (hussam.alkhouja@uopeople.edu) |
+| Course | Course Code | Instructor | Grade |
+|---|---|---|---|
+| English Composition 2 | ENGL 1102-01 | Aparna Rajith (aparna.rajith@uopeople.edu) | 100 / A+ |
+| Programming Fundamentals | CS 1101-01 | Hussam Al Khouja (hussam.alkhouja@uopeople.edu) | 100 / A+ |
+
+## Term 3 Courses (AY2027-T2) — IN PROGRESS (Unit 1)
+
+| Course | Course Code | Instructor |
+|---|---|---|
+| Programming 1 | CS 1102-01 | Ruchi Chopra (ruchi.chopra@uopeople.edu) |
+| Communications and Networking | CS 2204-01 | Chinu Singla (Chinu.Singla@uopeople.edu) |
+| Applied Economics: Theory and Practice | ECON 1580-01 | Divya Rana (divya.rana@uopeople.edu) |
+| Databases 1 | CS 2203-01 | Joseph Ego (joseph.ego@uopeople.edu) |
+
+> **Degree-plan note:** `Degree-Plan.md` originally planned ECON 1580 as a
+> transfer-credit course (Section 1C) rather than one taken directly at UoPeople. Since
+> it's now part of the Term 3 UoPeople course load, the plan's course list/cost/count may
+> need revisiting — not yet reconciled.
 
 ## Discussion Deadlines (applies to both courses unless a specific unit says otherwise)
 
