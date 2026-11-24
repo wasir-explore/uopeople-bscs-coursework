@@ -26,6 +26,15 @@ Within `Assignments/`, `Discussions/`, and `Exams/`, group files by unit as the 
 progresses (e.g., a `Unit N/` subfolder, or a `Unit N -` file-naming prefix) so all of a
 given unit's work is easy to find together.
 
+## Graded results
+
+| Item | Score |
+|---|---|
+| Discussion Forum Unit 1 | 97.25 / 100 (4.86 / 5) |
+
+Instructor feedback and the rules derived from it are in
+`.kiro/steering/cs1102-term3-instructor-feedback.md`.
+
 ## Discussion deadlines
 
 Unless a specific unit's instructions say otherwise:
